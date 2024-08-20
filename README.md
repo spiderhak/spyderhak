@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spyderhak
+- 👋 Hi, I’m @spiderhak
 - 👀 I’m interested in cybersecurity and Bug Bounty
 - 🌱 I’m currently learning python and linux
 - 💞️ I’m looking to collaborate on bug hunting
